@@ -125,7 +125,7 @@ function setup()
 
 function draw()
 {
-  background("pink");
+  background("WHITE");
 
   textSize(25);
   fill("red");
